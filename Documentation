@@ -1,0 +1,6 @@
+*****************deep learning avec le dataSet emnist: projet consistant a fait une reconnaissance d'image sur lesquel on a des nbre de 1 a 10*********
+
+-chargement des dependances dans le fichiers pom.xml:
+-creation de la classe Test
+-creation de la classe CNNModelIMnist
+-dans CNNModelIMnist: 1 a 7, 
